@@ -42,7 +42,7 @@ The **Noveks Combat Logging Script** ensures fair play by logging all player dis
 
 2. **Add to `server.cfg`:**  
    ```lua
-   ensure Noveks_CombatLog
+   ensure cfx_combat
    ```
 
 3. **Configure the Script:**  
